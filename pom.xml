@@ -23,6 +23,7 @@
 	  <configuration>
 	  <source>1.5</source>
 	  <target>1.5</target>
+	  </configuration>
     </dependency>
   </dependencies>
 </project>
